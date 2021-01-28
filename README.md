@@ -30,7 +30,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hackedak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fffdd0&icon_color=fffdd0&text_color=fffdd0&bg_color=0,000000,260701" alt="Atul's Github Stats">
 
 
-[<img align="left" alt="hackedAk | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="hackedAk | Twitter" width="30px" src="https://github.com/hackedak/hackedak/svgs/twitter.svg" />][twitter]
 [<img align="left" alt="hackedAk | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="hackedAk | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
