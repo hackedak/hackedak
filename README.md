@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Atul.</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently learning React for a project.         
+- 🔭 &nbsp; Currently working on some personal projects.         
 - 😎 &nbsp; I'm really good at finding quick hacks and tricks for problems.
 - 👨‍🎓 &nbsp; Information Technology student.
 - 👨‍🔧 &nbsp; Web developer
