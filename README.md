@@ -1,4 +1,5 @@
 <h2> Hey there! I'm Atul.</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackedak&label=Profile%20views&color=0e75b6&style=flat" alt="hackedak" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Currently working on some personal projects.         
@@ -7,7 +8,15 @@
 - 👨‍🔧 &nbsp; Web developer
 - 🐱‍👤 &nbsp; Area of focus: Cyber Security and Exploitation.
 - ✍️ &nbsp; Watching Anime and playing games as hobbies/side hustles.
+- 📝 I blog on [hashnode](https://ak.hashnode.dev/)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://ak.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://ak.hashnode.dev/rss.xml" height="30" width="40" /></a>
+</p>
 
 <h3> 🖐 Technologies </h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
@@ -26,9 +35,6 @@
 <br />
 
 <h3>🖐 Connect with me</h3>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hackedak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fffdd0&icon_color=fffdd0&text_color=fffdd0&bg_color=0,000000,260701" alt="Atul's Github Stats">
-
 
 [<img align="left" alt="hackedAk | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hackedAk | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
