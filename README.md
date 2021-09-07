@@ -6,7 +6,7 @@
 - 😎 &nbsp; I'm really good at finding quick hacks and tricks for problems.
 - 👨‍🎓 &nbsp; Information Technology student.
 - 👨‍🔧 &nbsp; Web developer
-- 🐱‍👤 &nbsp; Area of focus: Web application development and security.
+- 🐱‍👤 &nbsp; Area of focus: Web application development.
 - ✍️ &nbsp; Watching Anime and playing games as hobbies/side hustles.
 - 📝 I blog on [hashnode](https://ak.hashnode.dev/)
 ### Blogs posts
